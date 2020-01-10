@@ -3,6 +3,10 @@
 
 # Ignore Csv files
 *.csv
+
+# Ignore Log.txt
+Log.txt
+
 # User-specific files
 *.suo
 *.user
